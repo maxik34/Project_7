@@ -16,7 +16,8 @@ Right now the original wallpapers and their Starter version have been recreated 
 - **Resolutions (PNG)**: Original 2K (1920×1200) and 4K Version (3840×2400)
 - **Color Space**: sRGB 16-bit
 > [!NOTE]
-> Many layers use Feather blurring of vector layers, which does not change with the resizing of elements.
+> Many layers utilize the Vector Mask Feather property. Please note that this value is absolute and will not automatically scale when elements are resized in any way.
+> I used a .jsx script written by AI to change these values, as I don't understand these scripts. I've included it in the repository, but use it with caution.
 
 ### Credits
 - **Original Concept**: Microsoft Corporation / Windows Design Team
