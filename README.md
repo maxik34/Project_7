@@ -10,6 +10,10 @@ This repository contains high-quality assets (PSD and exports) recreated from sc
 
 Right now the original wallpapers and their Starter version have been recreated from scratch. Logoless versions are also available. They can be found in `/Wallpapers`. In the future, there are plans to recreate icons and other system resources.
 
+Some system icons have also been recreated. They can be found in `/Icons`:
+
+<img src="Icons/Info48.png"/> <img src="Icons/Question48.png"/> <img src="Icons/Size48.png"/> <img src="Icons/Warning48.png"/> <img src="Icons/Error48.png"/> <img src="Icons/Forbidden48.png"/>
+
 ### Technical Details
 - **Tools Used:** Adobe Photoshop 2019
 - **Format**: Vector-based PSD
