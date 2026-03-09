@@ -3,16 +3,16 @@
 <img src="PreviewImage.png"/>
 
 ## Disclaimer
-This project is a **non-commercial, artistic recreation** and is not affiliated with, authorized, or endorsed by Microsoft Corporation. All original designs, concepts, and trademarks (including the Windows logo and UI elements) are the property of **Microsoft Corporation**. These assets are recreated from scratch and provided for personal use, nostalgic, and preservation purposes only. You are free to fork this repository, modify the files, and create derivative works for the community. While crediting is appreciated, it is not mandatory.
+This project is a **non-commercial, artistic recreation** and is not affiliated with, authorized, or endorsed by Microsoft Corporation. All original designs, concepts, and trademarks (including the Windows logo and UI elements) are the property of **Microsoft Corporation**. These assets are recreated from scratch and provided for personal use, nostalgic, and preservation purposes only. You are free to fork this repository, modify the files, and create derivative works for the community. The recreations and source files in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 ### About
 This repository contains high-quality assets (PSD and exports) recreated from scratch in Adobe Photoshop 2019. The goal of this project is preservation and high-resolution restoration for nostalgic and educational purposes, as well as to provide the community with high-quality tools for customization that stay true to the original aesthetic.
 
-Right now the original wallpapers and their Starter version have been recreated from scratch. Logoless versions are also available. They can be found in `/Wallpapers`. In the future, there are plans to recreate icons and other system resources.
+Right now the original wallpapers, their Starter version and logon wallpapers have been recreated from scratch. Logoless versions are also available. They can be found in `/Wallpapers/PNG`.
 
-Some system icons have also been recreated. They can be found in `/Icons`:
+Some system icons have also been recreated. They can be found in `/Icons/PNG`:
 
-<img src="Icons/Info48.png"/> <img src="Icons/Question48.png"/> <img src="Icons/Size48.png"/> <img src="Icons/Warning48.png"/> <img src="Icons/Error48.png"/> <img src="Icons/Forbidden48.png"/>
+<img src="Icons/PNG/Info48.png"/> <img src="Icons/PNG/Question48.png"/> <img src="Icons/PNG/Size48.png"/> <img src="Icons/PNG/Warning48.png"/> <img src="Icons/PNG/Error48.png"/> <img src="Icons/PNG/Forbidden48.png"/>
 
 ### Technical Details
 - **Tools Used:** Adobe Photoshop 2019
@@ -21,13 +21,13 @@ Some system icons have also been recreated. They can be found in `/Icons`:
 - **Color Space**: sRGB 16-bit
 > [!NOTE]
 > Many layers utilize the Vector Mask Feather property. Please note that this value is absolute and will not automatically scale when elements are resized in any way.
-> I used a .jsx script written by AI to change these values, as I don't understand these scripts. I've included it in the repository, but use it with caution.
+> I used a .jsx script written by AI (as I don't understand these scripts) to change these values. I've included it in the repository, but use it with caution.
 
 ### Credits
 - **Original Concept & UI Design**: Microsoft Corporation / Windows Design Team
 - **Original Wallpaper Artists**: Chuck Anderson (NoPattern), Erik Attkisson
 - **Iconography & Aero Aesthetics**: Microsoft Design Team & partner agencies (e.g., Segel & Gale)
-- **Recreation**: Max_34
+- **Recreation**: Max_34 (maxik34)
 
 ### See Also
 - [NoPattern Studio (Chuck Anderson)](https://nopattern.com)
