@@ -17,7 +17,11 @@ Some system icons have also been recreated. They can be found in `/Icons/PNG`:
 ### Technical Details
 - **Tools Used:** Adobe Photoshop 2019
 - **Format**: Vector-based PSD
-- **Wallpapers Resolutions (PNG)**: Original 2K (1920×1200), 4K Version (3840×2400) and Wide 2K Version (3440×1440)
+- **Wallpapers Resolutions (PNG)**:
+  - 2K (1920×1200)
+  - 4K (3840×2400)
+  - Wide 2K (3440×1440)
+  - (only Harmony) Ultrawide 2K (5120×1440)
 - **Color Space**: sRGB 16-bit
 > [!NOTE]
 > Many layers utilize the Vector Mask Feather property. Please note that this value is absolute and will not automatically scale when elements are resized in any way.
